@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPDM_U1_Practica1_DeliaMaciasUrzua</string>
+    <string-array name="nocontrol">
+        <item>15401021</item>
+        <item>15401022</item>
+        <item>15401023</item>
+        <item>15401024</item>
+        <item>15401025</item>
+    </string-array>
+</resources>
